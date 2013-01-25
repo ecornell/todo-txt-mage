@@ -1,0 +1,53 @@
+body {
+	margin: 8px 8px 8px 8px;
+    overflow: hidden;
+}
+
+.ui-layout-center {
+    padding: 0 0 0 0;
+}
+
+.ui-layout-west {
+    padding: 4px 0 0 0;
+}
+
+.ui-layout-north input {
+    margin: 0 0 0 0;
+}
+
+.task {
+    vertical-align: middle;
+    padding: 8px 10px 8px 10px;
+}
+
+.task input[type="checkbox"] {
+    margin: 0 0 0 0;
+    font-size: 24px;
+}
+
+.task:nth-child(odd) {
+    background-color: #eeeeee;
+}
+
+
+#sidebarTab {
+	margin: 0px 0px 0px 0px;
+	padding: 2px 2px 0px 2px;
+}
+
+.nav-tabs > li > a  {
+	padding: 2px 8px 0px 8px;
+	font-size: 12px;
+}
+
+.sb-content {
+    padding: 0px 0px 0px 0px;
+}
+.sb-item {
+    padding: 4px 8px 4px 8px;
+
+}
+
+.sb-item:nth-child(odd) {
+    background-color: #eeeeee;
+}
